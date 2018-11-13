@@ -198,3 +198,5 @@ that were used for the original cluster and there are still Redis
 processes running on the machine the database recovery process will
 fail. Make sure to kill all Redis processes before attempting to run the
 recovery process.
+
+**For CRDB**: Recovering a site 
